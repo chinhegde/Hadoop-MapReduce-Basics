@@ -1,0 +1,5 @@
+Total number of numeric cards 45914	
+clubs 47632	
+diamonds 47855	
+hearts 47334	
+spades 47614	
